@@ -1,2 +1,6 @@
 # hello-world
-lovely blargamalarg
+
+
+
+Hi, I'm Sam!
+lorem ipsum etc.
